@@ -4,4 +4,10 @@
 - jim
 - smells
 
+## Smells of jim
+
+- gas
+- sewers
+- eggs
+- rot
 
